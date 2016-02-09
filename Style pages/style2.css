@@ -1,5 +1,5 @@
 body {
-    background-image: url("../images/slawomir_lipinski_04.jpg");
+    background-image: url("/images/slawomir_lipinski_04.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     font-family: 'Bangers', cursive;
@@ -11,14 +11,14 @@ body {
     font-style: gold;
 }
 .dropdown-content {
-    background-image: url("../images/space_11.jpg");
+    background-image: url("/images/space_11.jpg");
     border-radius: 30px;
     
     
 }
 
 fieldset.one { border: 35px groove transparent;
-border-image: url("../Images/pT5rGgEgc.png") 300 round;
+border-image: url("/Images/pT5rGgEgc.png") 300 round;
                margin: 0px 500px 50px 400px;  
                padding: 30px 30px 30px 30px;
                background-image: url("../images/unnamed.jpg");
